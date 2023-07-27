@@ -1,0 +1,4 @@
+pytest
+pip-tools
+black
+ruff
