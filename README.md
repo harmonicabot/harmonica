@@ -2,10 +2,10 @@
 
 LLM-powered chatbot for superfast sensemaking and deliberation.
 
-Majority of code is inside `[experiments/](experiments)` folder. Includes
+Majority of code is inside [`experiments/`](experiments) folder. Includes
 harmonica code taken from an integration with another platform.
 
-New development should take place starting with [main.py](./main.py).
+New development should take place starting with [`main.py`](./main.py).
 
 ## Development
 
